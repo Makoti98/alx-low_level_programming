@@ -1,9 +1,10 @@
 #iclude <stdio.h>
 
 /**
- * You should produce the exact same output as in the example
- * Warnings are allowed
+ * main - print the string in the function
  *
+ * Description: using the main function
+ * this program prints "Programming is like building a multilingual puzzle
  * return: 0
  */
 int main(void)
@@ -14,9 +15,9 @@ int main(void)
 	long long lli;
 	float f;
 
-	printf("size of chat: %id byte(s)\n", sizeof(c));
-	printf("size of int: %id byte(s)\n", sizeof(i));
-	printf("size of long long: %id byte(s)\n", sizeof(lli));
-	printf("size of float: %id byte(s)\n", sizeof(f));
+	printf("size of a chat: %Id byte(s)\n", sizeof(c));
+	printf("size of a int: %Id byte(s)\n", sizeof(i));
+	printf("size of a long long: %Id byte(s)\n", sizeof(lli));
+	printf("size of a float: %Id byte(s)\n", sizeof(f));
 	return (0);
 }
