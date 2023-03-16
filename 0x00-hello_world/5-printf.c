@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 /**
- * main - this print the main string in the function,
- * it is also the header o c languge.
+ * main - print the string in the put function
  *
  * Description: this program is suppossed to print the following line
  * with proper grammar, but the outcome is a piece of art,.
- * return: it normally returns nill results (0)
+ * return: 0
  */
 int main(void)
 {
