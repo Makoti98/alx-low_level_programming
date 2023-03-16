@@ -1,6 +1,9 @@
-#include <stdio.h>
+#include <stdio.h> 
+
 /**
- * printf to display certain words
+ * main: this the main function
+ * desciption:this program print multilingual puzzle
+ * return:0
  */
 int main(void)
 {
