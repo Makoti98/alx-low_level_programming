@@ -3,9 +3,9 @@
 /**
  * main - print the string in the put function
  *
- * Description: this program is suppossed to print the following line
- * with proper grammar, but the outcome is a piece of art,.
- * return: 0
+ * Description:using the main function
+ *this program print but the outcome is a piece of art,.
+ * return:0
  */
 int main(void)
 {
