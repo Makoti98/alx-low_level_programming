@@ -1,10 +1,10 @@
-#include <stdio.h> 
+#include <stdio.h>
 
 /**
- * main: this the main function
- * desciption:this program print multilingual puzzle
- * return:0
- */
+*main-Entry point
+*Return:o
+*/
+
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
