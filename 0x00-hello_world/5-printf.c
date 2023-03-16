@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main- this print the main string in the function,
+ * main - this print the main string in the function,
  * it is also the header o c languge.
  *
  * Description: this program is suppossed to print the following line
