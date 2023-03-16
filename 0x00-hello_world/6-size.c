@@ -16,7 +16,7 @@ int main(void)
 	float f;
 
 	printf("size of a chat: %Id byte(s)\n", sizeof(c));
-	printf("size of a int: %Id byte(s)\n", sizeof(i));
+	printf("size of an int: %Id byte(s)\n", sizeof(i));
 	printf("size of a long long: %Id byte(s)\n", sizeof(lli));
 	printf("size of a float: %Id byte(s)\n", sizeof(f));
 	return (0);
