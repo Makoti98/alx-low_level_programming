@@ -2,12 +2,12 @@
 
 /**
 *main-Entry point
-*Return:o
+*Return:Always 0 (success)
 */
 
 int main(void)
 {
-       char c;
+	char c;
 	int i;
 	long Ii;
 	long long IIi;
